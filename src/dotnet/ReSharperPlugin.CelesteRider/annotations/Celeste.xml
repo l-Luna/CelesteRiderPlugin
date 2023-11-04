@@ -1,0 +1,11 @@
+<assembly name="Celeste">
+    <member name="T:Celeste.Mod.Backdrops.CustomBackdropAttribute">
+        <attribute ctor="M:JetBrains.Annotations.MeansImplicitUseAttribute.#ctor" />
+    </member>
+    <member name="T:Celeste.Mod.Entities.CustomEntityAttribute">
+        <attribute ctor="M:JetBrains.Annotations.MeansImplicitUseAttribute.#ctor" />
+    </member>
+    <member name="T:Celeste.Mod.Entities.CustomEventAttribute">
+        <attribute ctor="M:JetBrains.Annotations.MeansImplicitUseAttribute.#ctor" />
+    </member>
+</assembly>
